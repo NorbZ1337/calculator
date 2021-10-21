@@ -1,0 +1,23 @@
+.jsKmbCalculator {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.jsKmbCalculator .operationBlock button {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+
+.jsKmbCalculator .inputsBlock .inputBlock label {
+    display: block;
+}
+
+.jsKmbCalculator .inputsBlock .inputBlock {
+    display: inline-block;
+    padding: 10px;
+}
